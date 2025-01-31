@@ -25,7 +25,7 @@ Este é um projeto simples para realizar um sorteio de **Amigo Secreto**. Os usu
    ```
 2. Acesse a pasta do projeto:
    ```sh
-   cd amigo-secreto
+   cd One-Desafio-challenge-amigosecreto
    ```
 3. Abra o arquivo `index.html` no seu navegador.
 
